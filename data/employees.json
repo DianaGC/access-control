@@ -1,0 +1,19 @@
+{
+    "dguanotasig" : {
+        "name": "Diana Guanotasig",
+        "link_github": "https://github.com/DianaGC",
+        "technologies": ["Node", "JavaScript", "Git", "HTML", "Java", "CSS"]
+      },
+    
+    "jerisson" : {
+        "name": "Juan Erisson",
+        "link_github": "https://github.com/danie",
+        "technologies": ["Node", "JavaScript", "Git", "HTML"]
+      },
+    
+    "kmares" : {
+        "name": "Karen Mares",
+        "link_github": "https://github.com/Karen",
+        "technologies": ["Haskell", "Python", "Git", "Assembly"]  
+      }
+ }
