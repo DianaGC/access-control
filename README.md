@@ -32,3 +32,8 @@ login
 }
 ```
 * GET  `http://localhost:3000/users`
+## Users
+Diana 123
+Juan 1234. Employee
+JuanKarlos 2222
+Diego 2222
